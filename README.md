@@ -35,11 +35,11 @@ I want to be a best developer. ✨
   <!--   https://img.shields.io/badge/뱃지에쓸글씨-색상코드?style=flat-square&logo=쓰고싶은 아이콘이름&logoColor=white&link=너의링크 -->
    <a href="https://www.notion.so/Resume-3f78003f0d814e71b8e932f017085654"><img src="https://img.shields.io/badge/노션%20블로그-4f4c4c?style=flat-square&logo=Notion&logoColor=white&link=https://www.notion.so/Resume-3f78003f0d814e71b8e932f017085654"/></a>&nbsp
   <a href="https://gitlab.com/sjabber"><img src="https://img.shields.io/badge/Git%20Lab-fc6a26?style=flat-square&logo=GitLab&logoColor=white&link=https://gitlab.com/sjabber"/></a>&nbsp
-<br>
+<!-- <br>
 <br>
     <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=sjabber" />
-</a>
+</a> -->
 </p>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)

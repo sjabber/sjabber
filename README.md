@@ -4,7 +4,7 @@
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
 I'm Taeho Kim, a junior Back-End developer. <br>
-I want to be a best developer. ✨
+I want to be a best. ✨
 </p>
 
 <h3 align="center"> 🛠 Tech Stack 🛠 </h3>

@@ -26,9 +26,10 @@ I want to be the best developer✨
   <br>
   <img src="https://img.shields.io/badge/Kafka-000000?style=flat-square&logo=Apache-Kafka&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Linux-38382f?style=flat-square&logo=Linux&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/GCP-79c746?style=flat-square&logo=Google&logoColor=white"/>&nbsp 
+  <!-- <img src="https://img.shields.io/badge/GCP-79c746?style=flat-square&logo=Google&logoColor=white"/>&nbsp -->
   <img src="https://img.shields.io/badge/Heroku-430098?style=flat-square&logo=Heroku&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Azure-008ad7?style=flat-square&logo=Microsoft-Azure&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=Amazon-AWS&logoColor=white"/>&nbsp
 </p>
 
 <h3 align="center">•••</h3>

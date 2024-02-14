@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Back%20End%20Developer&fontAlign=51&fontAlignY=40&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Backend%20Engineer&fontAlign=51&fontAlignY=40&color=gradient)
 
 
 <h3 align="center"> 👋 Hi there 👋 </h3>

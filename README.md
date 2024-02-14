@@ -3,7 +3,7 @@
 
 <h3 align="center"> 👋 Hi there 👋 </h3>
 <p align="center">
-I'm Taeho Kim, a junior backend developer. <br>
+I'm Taeho Kim, a junior backend engineer. <br>
 I want to be the best developer✨
 </p>
 
